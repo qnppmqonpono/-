@@ -1,0 +1,61 @@
+﻿  battle.cpp
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(72,1): error C2059: 構文エラー: 'if'
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(73,1): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(73,1): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(76,1): error C2059: 構文エラー: 'else'
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(77,1): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(77,1): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(83,7): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(83,1): error C2086: 'int bbb': 再定義されました。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(70): message : 'bbb' の宣言を確認してください
+  enemy.cpp
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(72,1): error C2059: 構文エラー: 'if'
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(73,1): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(73,1): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(76,1): error C2059: 構文エラー: 'else'
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(77,1): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(77,1): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(83,7): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(83,1): error C2086: 'int bbb': 再定義されました。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(70): message : 'bbb' の宣言を確認してください
+  field.cpp
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(72,1): error C2059: 構文エラー: 'if'
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(73,1): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(73,1): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(76,1): error C2059: 構文エラー: 'else'
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(77,1): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(77,1): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(83,7): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(83,1): error C2086: 'int bbb': 再定義されました。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(70): message : 'bbb' の宣言を確認してください
+  main.cpp
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(72,1): error C2059: 構文エラー: 'if'
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(73,1): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(73,1): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(76,1): error C2059: 構文エラー: 'else'
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(77,1): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(77,1): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(83,7): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(83,1): error C2086: 'int bbb': 再定義されました。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(70): message : 'bbb' の宣言を確認してください
+  player.cpp
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(72,1): error C2059: 構文エラー: 'if'
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(73,1): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(73,1): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(76,1): error C2059: 構文エラー: 'else'
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(77,1): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(77,1): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(83,7): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(83,1): error C2086: 'int bbb': 再定義されました。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(70): message : 'bbb' の宣言を確認してください
+  title.cpp
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(72,1): error C2059: 構文エラー: 'if'
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(73,1): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(73,1): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(76,1): error C2059: 構文エラー: 'else'
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(77,1): error C2143: 構文エラー: ';' が '{' の前にありません。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(77,1): error C2447: '{': 対応する関数ヘッダーがありません (旧形式の仮引数リスト?)
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(83,7): error C4430: 型指定子がありません - int と仮定しました。メモ: C++ は int を既定値としてサポートしていません
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(83,1): error C2086: 'int bbb': 再定義されました。
+C:\Users\ths31120\Desktop\sample19_battle_B\sample19_battle_B\main.h(70): message : 'bbb' の宣言を確認してください
+  コードを生成中...
